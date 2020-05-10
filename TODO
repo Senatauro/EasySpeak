@@ -1,0 +1,25 @@
+
+Todo:
+  Classe de instanciar:
+    ✔ Adicionar Animo a função de instanciar @done(20-02-25 14:59)
+  Classe de controle de bancos:
+    ☐ Melhorar maneira de selecionar bancos para instanciar a plateia. Atualmente a plateia não vai muito para o local que deveria ir com pouca gente
+  Pessoa:
+    ✔ Adicionar mudanca de animo na classe Pessoa @started(20-02-25 14:59) @done(20-02-25 15:33) @lasted(34m18s)
+  
+  Realidade Virtual:
+    ✔ Adicionar funcionalidade de RV @started(20-02-26 14:11) @done(20-02-28 11:45) @lasted(1d21h34m44s)
+
+  Coleta de Dados:
+    ☐ Criar modulo de coleta de dados
+  
+  Cenários:
+    ☐ Importar cenários já prontos para esse projeto @started(20-02-28 11:45)
+    ☐ Preparar cenários @started(20-02-28 11:46)
+
+  Avatares:
+    ☐ Importar alguns avatares para testar junto com os cenários
+    Animações:
+      ☐ Criar algumas animações basicas para os avatares
+      
+  ✔ Adicionar alguma maneira de controlar o animo das pessoas que vão ser instanciadas @started(20-02-25 14:14) @done(20-02-25 14:59) @lasted(45m5s)

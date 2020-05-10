@@ -1,2 +1,1 @@
-# EasySpeak
-Projeto de TCC
+EasySpeak
