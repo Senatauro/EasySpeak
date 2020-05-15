@@ -29,7 +29,12 @@ public class Pessoa : MonoBehaviour
                 break;
 
             case Animo.POUCO_CONCENTRADA:
-                animador.SetFloat("interesse", 1f);
+                animador.SetFloat("interesse", Random.Range(0f, 0.5f));
+                animador.SetFloat("animacao", Random.Range(0f, 0.2f));
+                animador.SetFloat("inquietude", Random.Range(0f, 0.5f));
+                break;
+            case Animo.NORMAL:
+                animador.SetFloat("interesse", Random.Range(-0.5f, 0.5f));
                 animador.SetFloat("animacao", Random.Range(0f, 0.2f));
                 animador.SetFloat("inquietude", Random.Range(0f, 0.5f));
                 break;
